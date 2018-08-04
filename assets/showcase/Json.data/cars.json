@@ -1,0 +1,12 @@
+[{"brand":"BMW","vin":556,"year":2012,"color":"Orange"},
+    {"brand":"Fiat","vin":5456,"year":2015,"color":"Red"},
+    {"brand":"Ford","vin":3456,"year":2010,"color":"White"},
+    {"brand":"Honda","vin":6867,"year":2009,"color":"Purple"},
+    {"brand":"Jaguar","vin":6456,"year":2013,"color":"Orange"},
+    {"brand":"Mercedes","vin":697,"year":2001,"color":"Black"},
+    {"brand":"Fiat","vin":5456,"year":2015,"color":"Red"},
+    {"brand":"Ford","vin":3456,"year":2010,"color":"White"},
+    {"brand":"Honda","vin":6867,"year":2009,"color":"Purple"},
+    {"brand":"Jaguar","vin":6456,"year":2013,"color":"Orange"},
+    {"brand":"Mercedes","vin":697,"year":2001,"color":"Black"},
+    {"brand":"Volvo","vin":697,"year":2011,"color":"Red"}]
