@@ -366,7 +366,7 @@ MIT
 MIT
 MIT
 
-@angular/animations@6.0.7
+@angular/animations@6.1.1
 MIT
 MIT
 
